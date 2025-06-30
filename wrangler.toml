@@ -1,4 +1,6 @@
 name = "cx-proxy1"
+compatibility_date = "2025-06-30"
+main = "_worker.js"
 
 [observability.logs]
 enabled = true
