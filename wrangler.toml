@@ -1,0 +1,5 @@
+name = "cx-proxy1"
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 0.30

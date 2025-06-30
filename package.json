@@ -1,0 +1,9 @@
+{
+  "name": "cx-proxy1",
+  "version": "1.0.0",
+  "main": "_worker.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
